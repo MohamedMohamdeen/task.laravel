@@ -1,0 +1,20 @@
+/* your styles go here */
+
+.save-post {
+    width: 150px;
+    height: 48px;
+    font-size: 16px;
+    font-weight: 700;
+    margin: auto;
+}
+.icon-option {
+    font-size: 16px;
+    margin-left: 13px;
+}
+#check-box {
+    width: 27%;
+    height: 96px;
+    overflow: overlay;
+    padding: 0 9px;
+    border: 1px solid #9999;
+}
